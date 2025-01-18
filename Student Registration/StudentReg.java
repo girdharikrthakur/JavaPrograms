@@ -12,7 +12,6 @@ public class StudentReg {
 
   // toString method to format the Student details
 
-  @Override
   public String toString() {
     return "StudentReg: \n name= " + name + "\n phoneno= " + phoneno + "\n email= " + email + "\n course= " + course
         + "\n branch= " + branch + "\n passingYear= " + passingYear + "";
