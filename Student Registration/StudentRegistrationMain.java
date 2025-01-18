@@ -1,7 +1,7 @@
 // Main class
-public class StudentRegistration {
+public class StudentRegistrationMain {
   public static void main(String[] args) {
-    
+
     // Create an instance of RegistrationLogic
     RegistrationLogic registrationLogic = new RegistrationLogic();
 
